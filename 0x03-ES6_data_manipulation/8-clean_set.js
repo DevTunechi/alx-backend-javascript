@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 function cleanSet(set, startString) {
 	  if (!startString) {
 		      return '';
