@@ -1,19 +1,16 @@
 {
-  "name": "0x06-unittests_in_js",
+  "name": "task_0",
   "version": "1.0.0",
-  "description": "0x06. Unittests in JS UnitTestsBack-endJavaScriptES6NodeJSExpressJSMocha",
-  "main": "0-calcul.js",
-  "dependencies": {},
-  "devDependencies": {
-    "chai": "^5.1.1",
-    "mocha": "^10.7.3",
-    "sinon": "^19.0.2"
-  },
-  "type": "commonjs",
+  "description": "Mocha test setup",
+  "main": "Super_tester",
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.7.3",
+    "sinon": "^10.0.0"
+  }
 }
